@@ -1,11 +1,11 @@
 # Data analytics in the era of large-scale machine learning
 Training event of [EuroCC
-Cyprus](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/),
+Cyprus](https://eurocc.cyi.ac.cy),
 May 23rd & 24th, 2023
 
 ### GPU CUDA Programming 
 This repository contains training material for the session "GPU CUDA
-Programming" of the EuroCC Cyprus May 2023 training event.
+Programming" of the [EuroCC Cyprus May 2023 training event](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/).
 
 ### Pre-requisites
 For following the hands-on practicals, attendees should be familiar
