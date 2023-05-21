@@ -28,7 +28,7 @@ following:
   
 ### Agenda
 
-#### Day 1 (Tuesday 23rd May 2023)
+#### Day 1 (Tuesday, 23rd May 2023)
 
 | Time   | Subject & Speaker  |
 | :----: | :---      |
@@ -41,9 +41,9 @@ following:
 |14:30 - 15:00| Break|
 |15:00 - 16:30| Streamlined Data Analysis with NBML: Harnessing AI Algorithms for Predictive Modelling. _Nikos Bakas_|
 
-#### Day 2 (Wednesday 24th May 2023)
+#### Day 2 (Wednesday, 24th May 2023)
 
-| Time| Subject  |
+| Time| Subject & Speaker |
 | :----: | :---      |
 | 10:30 - 12:00| Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning. _Charalambos Chrysostomou_|
 | 12:00 - 13:15| Lunch Break                |
